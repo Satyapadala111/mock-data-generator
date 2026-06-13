@@ -208,7 +208,9 @@ columns:
 ---
 
 ## 📹 Demo Video
-[Link to be added after recording]
+🎥 Demo video will be added here after recording.
+
+🚀 **Live App:** [Click here to open](https://mock-data-generator-team14.streamlit.app/)
 
 ---
 
