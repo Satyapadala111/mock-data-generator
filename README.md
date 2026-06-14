@@ -16,7 +16,7 @@
 
 
 ## 📹 Demo Video
-🎥 Demo video will be added here after recording.
+🎥 Demo video : https://drive.google.com/file/d/1wMLGOyCgDglkbfGBneBi3BwY4p-YToR4/view?usp=drive_link
 
 🚀 **Live App:** [Click here to open](https://mock-data-generator-team14.streamlit.app/)
 
