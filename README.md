@@ -14,6 +14,14 @@
 
 ---
 
+
+## 📹 Demo Video
+🎥 Demo video will be added here after recording.
+
+🚀 **Live App:** [Click here to open](https://mock-data-generator-team14.streamlit.app/)
+
+
+
 ## 📌 Problem Statement
 Realistic test data is hard to produce manually. Developers and QA engineers waste hours crafting fake datasets that still don't reflect real-world patterns or schema constraints.
 
@@ -207,10 +215,6 @@ columns:
 
 ---
 
-## 📹 Demo Video
-🎥 Demo video will be added here after recording.
-
-🚀 **Live App:** [Click here to open](https://mock-data-generator-team14.streamlit.app/)
 
 ---
 
