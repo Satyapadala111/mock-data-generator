@@ -7,10 +7,10 @@
 ## 👥 Team Members
 | Name | Roll No | Branch |
 |---|---|---|
-| Padala Kuladeep Satya Kishore | 23U41A0541 | CSE |
-| Pentakota Charishma | 23U41A0544 | CSE |
-| Madisa Thanu Sri | 24u45a0419 | ECE |
-| Malla Hemanjali | 23u41a4236 | CSM |
+| Padala Kuladeep Satya Kishore | 23U41A0541 | CSE | Team Lead & Data Quality Engine Developer
+| Pentakota Charishma | 23U41A0544 | CSE |Frontend Developer
+| Madisa Thanu Sri | 24u45a0419 | ECE | Testing & Documentation          
+| Malla Hemanjali | 23u41a4236 | CSM | AI/LLM Integration Developer
 
 ---
 
