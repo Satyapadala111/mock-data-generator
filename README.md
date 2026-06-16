@@ -5,8 +5,8 @@
 ---
 
 ## 👥 Team Members
-| Name | Roll No | Branch |
-|---|---|---|
+| Name | Roll No | Branch | Role |
+|---|---|---|---|
 | Padala Kuladeep Satya Kishore | 23U41A0541 | CSE | Team Lead & Data Quality Engine Developer |
 | Pentakota Charishma | 23U41A0544 | CSE |Frontend Developer |
 | Madisa Thanu Sri | 24u45a0419 | ECE | Testing & Documentation |         
